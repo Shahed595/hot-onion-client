@@ -1,0 +1,134 @@
+{
+    "lunch": [
+      {
+        "id": 1,
+        "name": "Healthy Meal Plan",
+        "price": "23.99 Tk",
+        "img": "https://i.ibb.co/q0RT5dM/lunch3.png",
+        "details": "How Dream About The Future"
+      },
+      {
+        "id": 2,
+        "name": "Food Chicken Bento",
+        "price": "9.99 Tk",
+        "img": "https://i.ibb.co/dfnw5VZ/lunch4.png",
+        "details": "How Dream About The Future"
+      },
+      {
+        "id": 3,
+        "name": "Tarragon-Rubbed-Salmon",
+        "price": "6.99 Tk",
+        "img": "https://i.ibb.co/whjF0WY/lunch5.png",
+        "details": "How Dream About The Future"
+      },
+      {
+        "id": 4,
+        "name": "Indian Lunch",
+        "price": "8.99 Tk",
+        "img": "https://i.ibb.co/Ttg8XLy/lunch6.png",
+        "details": "How Dream About The Future"
+      },
+      {
+        "id": 5,
+        "name": "Beef Steak",
+        "price": "15.99 Tk",
+        "img": "https://i.ibb.co/s32mw6P/lunch1.png",
+        "details": "How Dream About The Future"
+      },
+      {
+        "id": 6,
+        "name": "Honey-Soy-Glazed Salmon With Peppers",
+        "price": "7.99 Tk",
+        "img": "https://i.ibb.co/8j6s86G/lunch2.png",
+        "details": "How Dream About The Future"
+      }
+    ],
+    "breakfast": [
+      {
+        "id": 7,
+        "name": "Bagel & Cream Cheese",
+        "price": "6.99 Tk",
+        "img": "https://i.ibb.co/Khcmj5q/breakfast3.png",
+        "details": "How Dream About The Future"
+      },
+      {
+        "id": 8,
+        "name": "Breakfast Sandwich",
+        "price": "9.99 Tk",
+        "img": "https://i.ibb.co/Wpc7gCn/breakfast4.png",
+        "details": "How Dream About The Future"
+      },
+      {
+        "id": 9,
+        "name": "Baked Chicken",
+        "price": "10.99 Tk",
+        "img": "https://i.ibb.co/wCwg0yb/breakfast5.png",
+        "details": "How Dream About The Future"
+      },
+      {
+        "id": 10,
+        "name": "Eggs Benedict",
+        "price": "8.99 Tk",
+        "img": "https://i.ibb.co/M54Sk0t/breakfast6.png",
+        "details": "How Dream About The Future"
+      },
+      {
+        "id": 11,
+        "name": "Toast Croissant Fried Egg",
+        "price": "15.99 Tk",
+        "img": "https://i.ibb.co/Nm4stTr/breakfast1.png",
+        "details": "How Dream About The Future"
+      },
+      {
+        "id": 12,
+        "name": "Full Breakfast Fried Egg Toast Brunch",
+        "price": "3.99 Tk",
+        "img": "https://i.ibb.co/GR0xqbw/breakfast2.png",
+        "details": "How Dream About The Future"
+      }
+    ],
+    "dinner": [
+      {
+        "id": 13,
+        "name": "Salmon With Grapefruit and Lantil Salad",
+        "price": "9.99 Tk",
+        "img": "https://i.ibb.co/K6g3KmV/dinner3.png",
+        "details": "How Dream About The Future"
+      },
+      {
+        "id": 14,
+        "name": "Lemonny Salmon Piccata",
+        "price": "10.99 Tk",
+        "img": "https://i.ibb.co/kXVL4hh/dinner4.png",
+        "details": "How Dream About The Future"
+      },
+      {
+        "id": 15,
+        "name": "Pork Tenderion With Quinoa Pilaf",
+        "price": "12.99 Tk",
+        "img": "https://i.ibb.co/mDLZLwv/dinner5.png",
+        "details": "How Dream About The Future"
+      },
+      {
+        "id": 17,
+        "name": "French Fries With Cheese",
+        "price": "8.99 Tk",
+        "img": "https://i.ibb.co/CzqZQ4w/dinner6.png",
+        "details": "How Dream About The Future"
+      },
+      {
+        "id": 18,
+        "name": "Garlic Butter Baked Salmon",
+        "price": "6.99 Tk",
+        "img": "https://i.ibb.co/3MkXhnW/dinner1.png",
+        "details": "How Dream About The Future"
+      },
+      {
+        "id": 19,
+        "name": "Baked Chicken",
+        "price": "9.99 Tk",
+        "img": "https://i.ibb.co/q58hqD5/dinner2.png",
+        "details": "How Dream About The Future"
+      }
+    ]
+  }
